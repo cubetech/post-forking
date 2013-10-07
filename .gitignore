@@ -2,3 +2,4 @@
 logs/
 tests/wordpress-tests/
 node_modules
+.project
